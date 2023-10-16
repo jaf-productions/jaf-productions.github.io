@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Jonathan Frise"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "#3d, #vfxartist, #digitalart, #3danimation, and #unrealengine5 Hey! I'm Jon, a HND student studying Creative Media Production in games, animation and VFX"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "jaf_productions"
   wikipedia        :
 
 
